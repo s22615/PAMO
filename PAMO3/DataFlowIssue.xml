@@ -1,0 +1,15 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/pamo2/ui/notifications/NotificationsFragment.java</file>
+  <line>66</line>
+  <module>PAMO2.app.main</module>
+  <package>com.example.pamo2.ui.notifications</package>
+  <entry_point TYPE="method" FQNAME="com.example.pamo2.ui.notifications.NotificationsFragment void calculateKcal()" />
+  <problem_class id="DataFlowIssue" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Nullability and data flow problems</problem_class>
+  <description>Method invocation &lt;code&gt;findViewById&lt;/code&gt; may produce &lt;code&gt;NullPointerException&lt;/code&gt;</description>
+  <highlighted_element>findViewById</highlighted_element>
+  <language>JAVA</language>
+  <offset>58</offset>
+  <length>12</length>
+</problem>
+</problems>

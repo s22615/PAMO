@@ -1,0 +1,28 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/pamo2/ui/dashboard/DashboardFragment.java</file>
+  <line>44</line>
+  <module>PAMO2.app.main</module>
+  <package>com.example.pamo2.ui.dashboard</package>
+  <entry_point TYPE="method" FQNAME="com.example.pamo2.ui.dashboard.DashboardFragment android.view.View onCreateView(android.view.LayoutInflater inflater, android.view.ViewGroup container, android.os.Bundle savedInstanceState)" />
+  <problem_class id="Convert2Lambda" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Anonymous type can be replaced with lambda</problem_class>
+  <description>Anonymous new View.OnClickListener() can be replaced with lambda</description>
+  <highlighted_element>new View.OnClickListener()</highlighted_element>
+  <language>JAVA</language>
+  <offset>43</offset>
+  <length>27</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/pamo2/ui/notifications/NotificationsFragment.java</file>
+  <line>48</line>
+  <module>PAMO2.app.main</module>
+  <package>com.example.pamo2.ui.notifications</package>
+  <entry_point TYPE="method" FQNAME="com.example.pamo2.ui.notifications.NotificationsFragment android.view.View onCreateView(android.view.LayoutInflater inflater, android.view.ViewGroup container, android.os.Bundle savedInstanceState)" />
+  <problem_class id="Convert2Lambda" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Anonymous type can be replaced with lambda</problem_class>
+  <description>Anonymous new View.OnClickListener() can be replaced with lambda</description>
+  <highlighted_element>new View.OnClickListener()</highlighted_element>
+  <language>JAVA</language>
+  <offset>43</offset>
+  <length>27</length>
+</problem>
+</problems>

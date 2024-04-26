@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PAMO2</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">BMI</string>
+    <string name="title_notifications">PPM</string>
+    <string name="title_recipes">Recipes</string>
+</resources>
