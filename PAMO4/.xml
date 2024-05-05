@@ -1,0 +1,274 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/androidTest/java/com/example/pamo2/ExampleInstrumentedTest.java</file>
+  <line>19</line>
+  <module>PAMO2.app.androidTest</module>
+  <package>com.example.pamo2</package>
+  <entry_point TYPE="class" FQNAME="com.example.pamo2.ExampleInstrumentedTest" />
+  <language>JAVA</language>
+  <offset>13</offset>
+  <length>23</length>
+  <highlighted_element>ExampleInstrumentedTest</highlighted_element>
+  <problem_class id="" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Class is not instantiated.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/androidTest/java/com/example/pamo2/ExampleInstrumentedTest.java</file>
+  <line>21</line>
+  <module>PAMO2.app.androidTest</module>
+  <package>com.example.pamo2</package>
+  <entry_point TYPE="method" FQNAME="com.example.pamo2.ExampleInstrumentedTest void useAppContext()" />
+  <language>JAVA</language>
+  <offset>16</offset>
+  <length>13</length>
+  <highlighted_element>useAppContext</highlighted_element>
+  <problem_class id="" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Method is never used.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/pamo2/MainActivity.java</file>
+  <line>17</line>
+  <module>PAMO2.app.main</module>
+  <package>com.example.pamo2</package>
+  <entry_point TYPE="class" FQNAME="com.example.pamo2.MainActivity" />
+  <language>JAVA</language>
+  <offset>13</offset>
+  <length>12</length>
+  <highlighted_element>MainActivity</highlighted_element>
+  <problem_class id="" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Class is not instantiated.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/pamo2/ui/dashboard/DashboardFragment.java</file>
+  <line>18</line>
+  <module>PAMO2.app.main</module>
+  <package>com.example.pamo2.ui.dashboard</package>
+  <entry_point TYPE="class" FQNAME="com.example.pamo2.ui.dashboard.DashboardFragment" />
+  <language>JAVA</language>
+  <offset>13</offset>
+  <length>17</length>
+  <highlighted_element>DashboardFragment</highlighted_element>
+  <problem_class id="" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Class is not instantiated.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/pamo2/ui/home/HomeFragment.java</file>
+  <line>15</line>
+  <module>PAMO2.app.main</module>
+  <package>com.example.pamo2.ui.home</package>
+  <entry_point TYPE="class" FQNAME="com.example.pamo2.ui.home.HomeFragment" />
+  <language>JAVA</language>
+  <offset>13</offset>
+  <length>12</length>
+  <highlighted_element>HomeFragment</highlighted_element>
+  <problem_class id="" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Class is not instantiated.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/pamo2/ui/notifications/NotificationsFragment.java</file>
+  <line>20</line>
+  <module>PAMO2.app.main</module>
+  <package>com.example.pamo2.ui.notifications</package>
+  <entry_point TYPE="class" FQNAME="com.example.pamo2.ui.notifications.NotificationsFragment" />
+  <language>JAVA</language>
+  <offset>13</offset>
+  <length>21</length>
+  <highlighted_element>NotificationsFragment</highlighted_element>
+  <problem_class id="" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Class is not instantiated.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/pamo2/ui/recipes/RecipesFragment.java</file>
+  <line>15</line>
+  <module>PAMO2.app.main</module>
+  <package>com.example.pamo2.ui.recipes</package>
+  <entry_point TYPE="class" FQNAME="com.example.pamo2.ui.recipes.RecipesFragment" />
+  <language>JAVA</language>
+  <offset>13</offset>
+  <length>15</length>
+  <highlighted_element>RecipesFragment</highlighted_element>
+  <problem_class id="" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Class is not instantiated.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/test/java/com/example/pamo2/ExampleUnitTest.java</file>
+  <line>12</line>
+  <module>PAMO2.app.unitTest</module>
+  <package>com.example.pamo2</package>
+  <entry_point TYPE="class" FQNAME="com.example.pamo2.ExampleUnitTest" />
+  <language>JAVA</language>
+  <offset>13</offset>
+  <length>15</length>
+  <highlighted_element>ExampleUnitTest</highlighted_element>
+  <problem_class id="" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Class is not instantiated.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/test/java/com/example/pamo2/ExampleUnitTest.java</file>
+  <line>14</line>
+  <module>PAMO2.app.unitTest</module>
+  <package>com.example.pamo2</package>
+  <entry_point TYPE="method" FQNAME="com.example.pamo2.ExampleUnitTest void addition_isCorrect()" />
+  <language>JAVA</language>
+  <offset>16</offset>
+  <length>18</length>
+  <highlighted_element>addition_isCorrect</highlighted_element>
+  <problem_class id="" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Method is never used.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/androidTest/java/com/example/pamo2/ExampleInstrumentedTest.java</file>
+  <line>19</line>
+  <module>PAMO2.app.androidTest</module>
+  <package>com.example.pamo2</package>
+  <entry_point TYPE="class" FQNAME="com.example.pamo2.ExampleInstrumentedTest" />
+  <language>JAVA</language>
+  <offset>13</offset>
+  <length>23</length>
+  <highlighted_element>ExampleInstrumentedTest</highlighted_element>
+  <problem_class id="" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Class is not instantiated.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/pamo2/MainActivity.java</file>
+  <line>17</line>
+  <module>PAMO2.app.main</module>
+  <package>com.example.pamo2</package>
+  <entry_point TYPE="class" FQNAME="com.example.pamo2.MainActivity" />
+  <language>JAVA</language>
+  <offset>13</offset>
+  <length>12</length>
+  <highlighted_element>MainActivity</highlighted_element>
+  <problem_class id="" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Class is not instantiated.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/pamo2/ui/dashboard/DashboardFragment.java</file>
+  <line>18</line>
+  <module>PAMO2.app.main</module>
+  <package>com.example.pamo2.ui.dashboard</package>
+  <entry_point TYPE="class" FQNAME="com.example.pamo2.ui.dashboard.DashboardFragment" />
+  <language>JAVA</language>
+  <offset>13</offset>
+  <length>17</length>
+  <highlighted_element>DashboardFragment</highlighted_element>
+  <problem_class id="" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Class is not instantiated.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/pamo2/ui/home/HomeFragment.java</file>
+  <line>15</line>
+  <module>PAMO2.app.main</module>
+  <package>com.example.pamo2.ui.home</package>
+  <entry_point TYPE="class" FQNAME="com.example.pamo2.ui.home.HomeFragment" />
+  <language>JAVA</language>
+  <offset>13</offset>
+  <length>12</length>
+  <highlighted_element>HomeFragment</highlighted_element>
+  <problem_class id="" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Class is not instantiated.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/pamo2/ui/notifications/NotificationsFragment.java</file>
+  <line>20</line>
+  <module>PAMO2.app.main</module>
+  <package>com.example.pamo2.ui.notifications</package>
+  <entry_point TYPE="class" FQNAME="com.example.pamo2.ui.notifications.NotificationsFragment" />
+  <language>JAVA</language>
+  <offset>13</offset>
+  <length>21</length>
+  <highlighted_element>NotificationsFragment</highlighted_element>
+  <problem_class id="" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Class is not instantiated.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/pamo2/ui/recipes/RecipesFragment.java</file>
+  <line>15</line>
+  <module>PAMO2.app.main</module>
+  <package>com.example.pamo2.ui.recipes</package>
+  <entry_point TYPE="class" FQNAME="com.example.pamo2.ui.recipes.RecipesFragment" />
+  <language>JAVA</language>
+  <offset>13</offset>
+  <length>15</length>
+  <highlighted_element>RecipesFragment</highlighted_element>
+  <problem_class id="" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Class is not instantiated.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/test/java/com/example/pamo2/ExampleUnitTest.java</file>
+  <line>12</line>
+  <module>PAMO2.app.unitTest</module>
+  <package>com.example.pamo2</package>
+  <entry_point TYPE="class" FQNAME="com.example.pamo2.ExampleUnitTest" />
+  <language>JAVA</language>
+  <offset>13</offset>
+  <length>15</length>
+  <highlighted_element>ExampleUnitTest</highlighted_element>
+  <problem_class id="" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Class is not instantiated.</description>
+</problem>
+</problems>

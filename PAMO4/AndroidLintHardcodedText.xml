@@ -1,0 +1,158 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/layout/fragment_dashboard.xml</file>
+  <line>30</line>
+  <module>PAMO2.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_dashboard.xml" />
+  <problem_class id="AndroidLintHardcodedText" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Hardcoded text</problem_class>
+  <hints />
+  <description>&lt;html&gt;Hardcoded string &quot;Calculate&quot;, should use &lt;code&gt;@string&lt;/code&gt; resource&lt;/html&gt;</description>
+  <highlighted_element>android:text=&quot;Calculate&quot;</highlighted_element>
+  <language>XML</language>
+  <offset>8</offset>
+  <length>24</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/layout/fragment_dashboard.xml</file>
+  <line>73</line>
+  <module>PAMO2.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_dashboard.xml" />
+  <problem_class id="AndroidLintHardcodedText" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Hardcoded text</problem_class>
+  <hints />
+  <description>&lt;html&gt;Hardcoded string &quot;Weight(kg)&quot;, should use &lt;code&gt;@string&lt;/code&gt; resource&lt;/html&gt;</description>
+  <highlighted_element>android:text=&quot;Weight(kg)&quot;</highlighted_element>
+  <language>XML</language>
+  <offset>8</offset>
+  <length>25</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/layout/fragment_dashboard.xml</file>
+  <line>82</line>
+  <module>PAMO2.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_dashboard.xml" />
+  <problem_class id="AndroidLintHardcodedText" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Hardcoded text</problem_class>
+  <hints />
+  <description>&lt;html&gt;Hardcoded string &quot;Height(cm)&quot;, should use &lt;code&gt;@string&lt;/code&gt; resource&lt;/html&gt;</description>
+  <highlighted_element>android:text=&quot;Height(cm)&quot;</highlighted_element>
+  <language>XML</language>
+  <offset>8</offset>
+  <length>25</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/layout/fragment_notifications.xml</file>
+  <line>28</line>
+  <module>PAMO2.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_notifications.xml" />
+  <problem_class id="AndroidLintHardcodedText" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Hardcoded text</problem_class>
+  <hints />
+  <description>&lt;html&gt;Hardcoded string &quot;Calculate&quot;, should use &lt;code&gt;@string&lt;/code&gt; resource&lt;/html&gt;</description>
+  <highlighted_element>android:text=&quot;Calculate&quot;</highlighted_element>
+  <language>XML</language>
+  <offset>8</offset>
+  <length>24</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/layout/fragment_notifications.xml</file>
+  <line>52</line>
+  <module>PAMO2.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_notifications.xml" />
+  <problem_class id="AndroidLintHardcodedText" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Hardcoded text</problem_class>
+  <hints />
+  <description>&lt;html&gt;Hardcoded string &quot;Weight(kg)&quot;, should use &lt;code&gt;@string&lt;/code&gt; resource&lt;/html&gt;</description>
+  <highlighted_element>android:text=&quot;Weight(kg)&quot;</highlighted_element>
+  <language>XML</language>
+  <offset>8</offset>
+  <length>25</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/layout/fragment_notifications.xml</file>
+  <line>84</line>
+  <module>PAMO2.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_notifications.xml" />
+  <problem_class id="AndroidLintHardcodedText" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Hardcoded text</problem_class>
+  <hints />
+  <description>&lt;html&gt;Hardcoded string &quot;Height(cm)&quot;, should use &lt;code&gt;@string&lt;/code&gt; resource&lt;/html&gt;</description>
+  <highlighted_element>android:text=&quot;Height(cm)&quot;</highlighted_element>
+  <language>XML</language>
+  <offset>8</offset>
+  <length>25</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/layout/fragment_notifications.xml</file>
+  <line>107</line>
+  <module>PAMO2.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_notifications.xml" />
+  <problem_class id="AndroidLintHardcodedText" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Hardcoded text</problem_class>
+  <hints />
+  <description>&lt;html&gt;Hardcoded string &quot;Age&quot;, should use &lt;code&gt;@string&lt;/code&gt; resource&lt;/html&gt;</description>
+  <highlighted_element>android:text=&quot;Age&quot;</highlighted_element>
+  <language>XML</language>
+  <offset>8</offset>
+  <length>18</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/layout/fragment_notifications.xml</file>
+  <line>130</line>
+  <module>PAMO2.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_notifications.xml" />
+  <problem_class id="AndroidLintHardcodedText" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Hardcoded text</problem_class>
+  <hints />
+  <description>&lt;html&gt;Hardcoded string &quot;Man&quot;, should use &lt;code&gt;@string&lt;/code&gt; resource&lt;/html&gt;</description>
+  <highlighted_element>android:text=&quot;Man&quot;</highlighted_element>
+  <language>XML</language>
+  <offset>12</offset>
+  <length>18</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/layout/fragment_notifications.xml</file>
+  <line>136</line>
+  <module>PAMO2.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_notifications.xml" />
+  <problem_class id="AndroidLintHardcodedText" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Hardcoded text</problem_class>
+  <hints />
+  <description>&lt;html&gt;Hardcoded string &quot;Female&quot;, should use &lt;code&gt;@string&lt;/code&gt; resource&lt;/html&gt;</description>
+  <highlighted_element>android:text=&quot;Female&quot;</highlighted_element>
+  <language>XML</language>
+  <offset>12</offset>
+  <length>21</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/layout/fragment_notifications.xml</file>
+  <line>144</line>
+  <module>PAMO2.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_notifications.xml" />
+  <problem_class id="AndroidLintHardcodedText" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Hardcoded text</problem_class>
+  <hints />
+  <description>&lt;html&gt;Hardcoded string &quot;Gender&quot;, should use &lt;code&gt;@string&lt;/code&gt; resource&lt;/html&gt;</description>
+  <highlighted_element>android:text=&quot;Gender&quot;</highlighted_element>
+  <language>XML</language>
+  <offset>8</offset>
+  <length>21</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/layout/fragment_recipes.xml</file>
+  <line>30</line>
+  <module>PAMO2.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_recipes.xml" />
+  <problem_class id="AndroidLintHardcodedText" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Hardcoded text</problem_class>
+  <hints />
+  <description>&lt;html&gt;Hardcoded string &quot;Kanapka z serem i szynkąnSkładniki:n - Chleb;n - Ser:n - Szynka;nnPrzygotowanie:nnNa chleb połóż szynkę i ser. Gotowe, smacznego!&quot;, should use &lt;code&gt;@string&lt;/code&gt; resource&lt;/html&gt;</description>
+  <highlighted_element>android:text=&quot;Kanapka z serem i szynką\nSkładniki:\n - Chleb;\n - Ser:\n - Szynka;\n\nPrzygotowanie:...</highlighted_element>
+  <language>XML</language>
+  <offset>8</offset>
+  <length>152</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/layout/fragment_recipes.xml</file>
+  <line>43</line>
+  <module>PAMO2.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_recipes.xml" />
+  <problem_class id="AndroidLintHardcodedText" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Hardcoded text</problem_class>
+  <hints />
+  <description>&lt;html&gt;Hardcoded string &quot;Płatki śniadaniowe na mlekunSkładniki:n - Mleko;n - Płatki śniadaniowennPrzygotowanie:nnDo miski należy wlać mlekona następnie wsypać płatki. Gotowe, smacznego!&quot;, should use &lt;code&gt;@string&lt;/code&gt; resource&lt;/html&gt;</description>
+  <highlighted_element>android:text=&quot;Płatki śniadaniowe na mleku\nSkładniki:\n - Mleko;\n - Płatki śniadaniowe\n\nPrzygotow...</highlighted_element>
+  <language>XML</language>
+  <offset>8</offset>
+  <length>183</length>
+</problem>
+</problems>

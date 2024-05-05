@@ -1,0 +1,15 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/example/pamo2/ui/notifications/NotificationsFragment.java</file>
+  <line>93</line>
+  <module>PAMO2.app.main</module>
+  <package>com.example.pamo2.ui.notifications</package>
+  <entry_point TYPE="method" FQNAME="com.example.pamo2.ui.notifications.NotificationsFragment void calculateKcal()" />
+  <problem_class id="UnnecessarySemicolon" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unnecessary semicolon</problem_class>
+  <description>Unnecessary semicolon &lt;code&gt;;&lt;/code&gt; #loc</description>
+  <highlighted_element>;</highlighted_element>
+  <language>JAVA</language>
+  <offset>83</offset>
+  <length>1</length>
+</problem>
+</problems>
