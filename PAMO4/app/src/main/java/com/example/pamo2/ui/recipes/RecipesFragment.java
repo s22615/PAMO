@@ -9,7 +9,9 @@ import android.widget.TextView;
 import androidx.annotation.NonNull;
 import androidx.fragment.app.Fragment;
 import androidx.lifecycle.ViewModelProvider;
+import androidx.navigation.Navigation;
 
+import com.example.pamo2.R;
 import com.example.pamo2.databinding.FragmentRecipesBinding;
 
 public class RecipesFragment extends Fragment {
@@ -26,6 +28,15 @@ public class RecipesFragment extends Fragment {
 
         final TextView textView = binding.textRecipes;
         recipesViewModel.getText().observe(getViewLifecycleOwner(), textView::setText);
+
+        // Obsługa kliknięcia przycisku przenoszącego do ShoppingListFragment
+        binding.buttonGoToShoppingList.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Navigation.findNavController(v).navigate(R.id.navigation_shopping_list);
+            }
+        });
+
         return root;
     }
 

@@ -2,6 +2,7 @@ package com.example.pamo2;
 
 import android.os.Bundle;
 
+import com.example.pamo2.todolist.ShoppingListFragment;
 import com.google.android.material.bottomnavigation.BottomNavigationView;
 
 import androidx.appcompat.app.AppCompatActivity;
@@ -35,5 +36,4 @@ public class MainActivity extends AppCompatActivity {
         NavigationUI.setupActionBarWithNavController(this, navController, appBarConfiguration);
         NavigationUI.setupWithNavController(binding.navView, navController);
     }
-
 }

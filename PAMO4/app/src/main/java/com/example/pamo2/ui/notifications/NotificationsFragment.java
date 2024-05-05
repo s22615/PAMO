@@ -97,10 +97,6 @@ public class NotificationsFragment extends Fragment {
         textViewResult.setText(String.format("Your PPM: %s", genderResult));
     }
 
-    public int calculateMalePPMTestCase(float weight, float height, int age) {
-        return (int) (66.5 + (13.75 * weight) + (5.003 * height) - (6.775 * age));
-    }
-
     private int calculateMalePPM(float weight, float height, int age) {
         return (int) (66.5 + (13.75 * weight) + (5.003 * height) - (6.775 * age));
     }

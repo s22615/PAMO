@@ -4,6 +4,7 @@ import android.os.Bundle;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
+import android.webkit.WebView;
 import android.widget.Button;
 import android.widget.EditText;
 import android.widget.TextView;
@@ -39,6 +40,8 @@ public class DashboardFragment extends Fragment {
         editTextHeight = root.findViewById(R.id.heightTextField);
         buttonCalculate = root.findViewById(R.id.calculateButton);
         textViewResult = root.findViewById(R.id.resultInfoBox);
+        WebView myWebView = root.findViewById(R.id.bmichart);
+        myWebView.loadUrl("file:///android_asset/chart.html");
 
         // Set click listener to call calculateBMI on click
         buttonCalculate.setOnClickListener(new View.OnClickListener() {
